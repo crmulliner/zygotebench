@@ -8,4 +8,4 @@ Benchmarking process creation speed can be useful if you develop any 'tool,exten
 
 The benchmark works by creating a new process through starting a service (the service is started as a separate process). The benchmark consists of 10 iterations. After each iteration the service process is killed to be restarted afterward.
 
-A precompiled APK can be downloaded here: [zygotebench.apk](https://github.com/crmulliner/zygotebench/blob/master/zygotebench.apk)
+A precompiled APK can be downloaded here: [ZygoteBench.apk](https://github.com/crmulliner/zygotebench/blob/master/ZygoteBench.apk)
